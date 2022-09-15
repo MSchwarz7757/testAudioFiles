@@ -1,0 +1,6 @@
+Hallo, willkommen beim Autohaus Müller.
+Möchten Sie einen Beratungstermin vereinbaren, drücken Sie bitte die 1.
+<break time="1s"/>
+Möchten Sie die Kundenbetreuung wegen einer Reperatur sprechen, drücken Sie bitte die 2.
+
+
